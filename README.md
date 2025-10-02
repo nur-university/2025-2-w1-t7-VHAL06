@@ -3,14 +3,14 @@
 # Diagramas y Clases del Sistema ValidFound
 
 ## Diagrama de Base de Datos
-![Diagrama BD](Diagrama de Base de datos- ValidFound.png)
+![Diagrama BD](diagrama-bd.png)
 
-## Diagrama de Clases UML  
-![Diagrama Clases](Diagrama de Clases UML- ValidFound.png)
+## Diagrama de Clases UML
+![Diagrama Clases](diagrama-clases.png)
 
 ## Clases Java implementadas
 - Usuario.java
-- Proyecto.java  
+- Proyecto.java
 - Categoria.java
 - Contribucion.java
 - ProyectoFavorito.java
